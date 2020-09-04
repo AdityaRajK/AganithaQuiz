@@ -1,6 +1,6 @@
 This is the information regarding python code for Spoken english to Written english conversion.
 
-1.Download the setup.py file and run it to install tha package.
+1.Download the setup.py file and run it to install the package.
 2.Run these 2 commands in command prompt after running setup.py file.
 	>>from SpeechWritten import SpeechWritten
 	>>SpeechWritten.main()
