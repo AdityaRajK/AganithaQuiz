@@ -1,0 +1,2 @@
+For each of the cases which arise later, we can add small pre processing functions which filters or modifies the text based on those cases.
+Ex. for puncuation marks case, we can add a function which uses regex to remove those characters and then passes it to the main function for conversion.
